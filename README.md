@@ -1,4 +1,6 @@
 🚀 Employee Management System - Spring Boot REST API
+
+
 Bu proje, Java ve Spring Boot kullanılarak geliştirilmiş, çalışan listesini yöneten ve bir kullanıcı arayüzü (Frontend) ile entegre çalışan bir Full-Stack uygulamadır.
 
 Özellikle Spring Boot'un paket yapısı, Component Scanning hiyerarşisi ve RESTful servis mimarisini uygulamalı olarak anlamak amacıyla geliştirilmiştir.
